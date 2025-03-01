@@ -29,21 +29,16 @@ userRouter.route("/register").post(async (req, res) => {
 });
 
 
-userRouter.post("/submit", async (req, res) => {
+userRouter.post("/score", async (req, res) => {
     try {
-        const { username, city, selectedAnswer } = req.body;
+        const { username, score } = req.body;
 
         const user = await User.findOne({ username });
         if (!user) return res.status(404).json({ message: "User not found" });
-
-        const destination = await Destination.findOne({ name: city });
-        if (!destination) return res.status(404).json({ message: "Destination not found" });
-
-        let isCorrect = selectedAnswer === destination.correctAnswer;
-        if (isCorrect) user.score += 1;
+        user.score = score;
         await user.save();
 
-        res.json({ isCorrect, score: user.score, funFact: destination.funFact });
+        res.json({user});
     } catch (err) {
         res.status(500).json({ message: "Error processing answer", error: err });
     }

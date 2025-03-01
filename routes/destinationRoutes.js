@@ -15,8 +15,9 @@ destinationRouter.get("/random", async (req, res) => {
         }
 
         res.json({
-            city: randomDestination.name,
+            city: randomDestination.city,
             country: randomDestination.country,
+            funFact:randomDestination.funFact,
             clues: randomDestination.clues,
             options: randomDestination.options,
         });

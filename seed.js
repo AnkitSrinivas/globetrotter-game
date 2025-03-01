@@ -10,8 +10,8 @@ const destinations = [
         "city": "Paris",
         "country": "France",
         "clues": [
-            "This city is famous for its iconic landmarks such as Paris's most recognized monument.",
-            "Known for its cultural and historical significance in France."
+            "Home to a famous tower that sparkles every night.",
+            "Known for its world-class art museums and romantic atmosphere."
         ],
         "funFact": [
             "Paris hosts one of the most famous festivals in France.",
@@ -32,8 +32,8 @@ const destinations = [
         "city": "Tokyo",
         "country": "Japan",
         "clues": [
-            "This city is famous for its iconic landmarks such as Tokyo's most recognized monument.",
-            "Known for its cultural and historical significance in Japan."
+            "Has the busiest pedestrian crossing in the world.",
+            "A paradise for anime, manga, and gaming lovers."
         ],
         "funFact": [
             "Tokyo hosts one of the most famous festivals in Japan.",
@@ -54,8 +54,8 @@ const destinations = [
         "city": "New York",
         "country": "USA",
         "clues": [
-            "This city is famous for its iconic landmarks such as New York's most recognized monument.",
-            "Known for its cultural and historical significance in USA."
+            "Home to a green statue gifted by another country.",
+            "Famous for its Broadway theaters and towering skyscrapers."
         ],
         "funFact": [
             "New York hosts one of the most famous festivals in USA.",
@@ -76,8 +76,8 @@ const destinations = [
         "city": "London",
         "country": "UK",
         "clues": [
-            "This city is famous for its iconic landmarks such as London's most recognized monument.",
-            "Known for its cultural and historical significance in UK."
+            "This city has a historic clock tower that still chimes every hour.",
+            "A place where royal traditions meet modern lifestyle."
         ],
         "funFact": [
             "London hosts one of the most famous festivals in UK.",
@@ -98,8 +98,8 @@ const destinations = [
         "city": "Rome",
         "country": "Italy",
         "clues": [
-            "This city is famous for its iconic landmarks such as Rome's most recognized monument.",
-            "Known for its cultural and historical significance in Italy."
+            "An ancient city filled with ruins from a once-mighty empire.",
+            "Famous for a massive amphitheater where gladiators once fought."
         ],
         "funFact": [
             "Rome hosts one of the most famous festivals in Italy.",
@@ -120,8 +120,8 @@ const destinations = [
         "city": "Dubai",
         "country": "UAE",
         "clues": [
-            "This city is famous for its iconic landmarks such as Dubai's most recognized monument.",
-            "Known for its cultural and historical significance in UAE."
+            "Known for its futuristic skyline and the tallest building in the world.",
+            "A desert city that transformed into a global business hub."
         ],
         "funFact": [
             "Dubai hosts one of the most famous festivals in UAE.",
@@ -142,8 +142,8 @@ const destinations = [
         "city": "Sydney",
         "country": "Australia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Sydney's most recognized monument.",
-            "Known for its cultural and historical significance in Australia."
+            "Home to a world-famous opera house with a unique design.",
+            "Has beautiful beaches and a massive harbor bridge."
         ],
         "funFact": [
             "Sydney hosts one of the most famous festivals in Australia.",
@@ -164,8 +164,8 @@ const destinations = [
         "city": "Berlin",
         "country": "Germany",
         "clues": [
-            "This city is famous for its iconic landmarks such as Berlin's most recognized monument.",
-            "Known for its cultural and historical significance in Germany."
+            "A city once divided by a wall, now a symbol of unity.",
+            "Famous for its street art, underground music, and rich history."
         ],
         "funFact": [
             "Berlin hosts one of the most famous festivals in Germany.",
@@ -186,8 +186,8 @@ const destinations = [
         "city": "Moscow",
         "country": "Russia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Moscow's most recognized monument.",
-            "Known for its cultural and historical significance in Russia."
+            "This city has colorful, onion-shaped domes on its most famous cathedral.",
+            "The capital of the largest country in the world."
         ],
         "funFact": [
             "Moscow hosts one of the most famous festivals in Russia.",
@@ -208,8 +208,8 @@ const destinations = [
         "city": "Beijing",
         "country": "China",
         "clues": [
-            "This city is famous for its iconic landmarks such as Beijing's most recognized monument.",
-            "Known for its cultural and historical significance in China."
+            "A city known for its Great Wall, an ancient wonder of the world.",
+            "The site of a vast imperial palace complex known as the Forbidden City."
         ],
         "funFact": [
             "Beijing hosts one of the most famous festivals in China.",
@@ -230,8 +230,8 @@ const destinations = [
         "city": "Bangkok",
         "country": "Thailand",
         "clues": [
-            "This city is famous for its iconic landmarks such as Bangkok's most recognized monument.",
-            "Known for its cultural and historical significance in Thailand."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Bangkok hosts one of the most famous festivals in Thailand.",
@@ -252,8 +252,8 @@ const destinations = [
         "city": "Istanbul",
         "country": "Turkey",
         "clues": [
-            "This city is famous for its iconic landmarks such as Istanbul's most recognized monument.",
-            "Known for its cultural and historical significance in Turkey."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Istanbul hosts one of the most famous festivals in Turkey.",
@@ -274,8 +274,8 @@ const destinations = [
         "city": "Rio de Janeiro",
         "country": "Brazil",
         "clues": [
-            "This city is famous for its iconic landmarks such as Rio de Janeiro's most recognized monument.",
-            "Known for its cultural and historical significance in Brazil."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Rio de Janeiro hosts one of the most famous festivals in Brazil.",
@@ -296,8 +296,8 @@ const destinations = [
         "city": "Cairo",
         "country": "Egypt",
         "clues": [
-            "This city is famous for its iconic landmarks such as Cairo's most recognized monument.",
-            "Known for its cultural and historical significance in Egypt."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Cairo hosts one of the most famous festivals in Egypt.",
@@ -318,8 +318,8 @@ const destinations = [
         "city": "Los Angeles",
         "country": "USA",
         "clues": [
-            "This city is famous for its iconic landmarks such as Los Angeles's most recognized monument.",
-            "Known for its cultural and historical significance in USA."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Los Angeles hosts one of the most famous festivals in USA.",
@@ -340,8 +340,8 @@ const destinations = [
         "city": "Toronto",
         "country": "Canada",
         "clues": [
-            "This city is famous for its iconic landmarks such as Toronto's most recognized monument.",
-            "Known for its cultural and historical significance in Canada."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Toronto hosts one of the most famous festivals in Canada.",
@@ -362,8 +362,8 @@ const destinations = [
         "city": "Madrid",
         "country": "Spain",
         "clues": [
-            "This city is famous for its iconic landmarks such as Madrid's most recognized monument.",
-            "Known for its cultural and historical significance in Spain."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Madrid hosts one of the most famous festivals in Spain.",
@@ -384,8 +384,8 @@ const destinations = [
         "city": "Singapore",
         "country": "Singapore",
         "clues": [
-            "This city is famous for its iconic landmarks such as Singapore's most recognized monument.",
-            "Known for its cultural and historical significance in Singapore."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Singapore hosts one of the most famous festivals in Singapore.",
@@ -406,8 +406,8 @@ const destinations = [
         "city": "Mexico City",
         "country": "Mexico",
         "clues": [
-            "This city is famous for its iconic landmarks such as Mexico City's most recognized monument.",
-            "Known for its cultural and historical significance in Mexico."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Mexico City hosts one of the most famous festivals in Mexico.",
@@ -428,8 +428,8 @@ const destinations = [
         "city": "Seoul",
         "country": "South Korea",
         "clues": [
-            "This city is famous for its iconic landmarks such as Seoul's most recognized monument.",
-            "Known for its cultural and historical significance in South Korea."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Seoul hosts one of the most famous festivals in South Korea.",
@@ -450,8 +450,8 @@ const destinations = [
         "city": "Athens",
         "country": "Greece",
         "clues": [
-            "This city is famous for its iconic landmarks such as Athens's most recognized monument.",
-            "Known for its cultural and historical significance in Greece."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Athens hosts one of the most famous festivals in Greece.",
@@ -472,8 +472,8 @@ const destinations = [
         "city": "Buenos Aires",
         "country": "Argentina",
         "clues": [
-            "This city is famous for its iconic landmarks such as Buenos Aires's most recognized monument.",
-            "Known for its cultural and historical significance in Argentina."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Buenos Aires hosts one of the most famous festivals in Argentina.",
@@ -494,8 +494,8 @@ const destinations = [
         "city": "Mumbai",
         "country": "India",
         "clues": [
-            "This city is famous for its iconic landmarks such as Mumbai's most recognized monument.",
-            "Known for its cultural and historical significance in India."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Mumbai hosts one of the most famous festivals in India.",
@@ -516,8 +516,8 @@ const destinations = [
         "city": "Cape Town",
         "country": "South Africa",
         "clues": [
-            "This city is famous for its iconic landmarks such as Cape Town's most recognized monument.",
-            "Known for its cultural and historical significance in South Africa."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Cape Town hosts one of the most famous festivals in South Africa.",
@@ -538,8 +538,8 @@ const destinations = [
         "city": "Stockholm",
         "country": "Sweden",
         "clues": [
-            "This city is famous for its iconic landmarks such as Stockholm's most recognized monument.",
-            "Known for its cultural and historical significance in Sweden."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Stockholm hosts one of the most famous festivals in Sweden.",
@@ -560,8 +560,8 @@ const destinations = [
         "city": "Amsterdam",
         "country": "Netherlands",
         "clues": [
-            "This city is famous for its iconic landmarks such as Amsterdam's most recognized monument.",
-            "Known for its cultural and historical significance in Netherlands."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Amsterdam hosts one of the most famous festivals in Netherlands.",
@@ -582,8 +582,8 @@ const destinations = [
         "city": "Vienna",
         "country": "Austria",
         "clues": [
-            "This city is famous for its iconic landmarks such as Vienna's most recognized monument.",
-            "Known for its cultural and historical significance in Austria."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Vienna hosts one of the most famous festivals in Austria.",
@@ -604,8 +604,8 @@ const destinations = [
         "city": "Lisbon",
         "country": "Portugal",
         "clues": [
-            "This city is famous for its iconic landmarks such as Lisbon's most recognized monument.",
-            "Known for its cultural and historical significance in Portugal."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Lisbon hosts one of the most famous festivals in Portugal.",
@@ -626,8 +626,8 @@ const destinations = [
         "city": "Prague",
         "country": "Czech Republic",
         "clues": [
-            "This city is famous for its iconic landmarks such as Prague's most recognized monument.",
-            "Known for its cultural and historical significance in Czech Republic."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Prague hosts one of the most famous festivals in Czech Republic.",
@@ -648,8 +648,8 @@ const destinations = [
         "city": "Dublin",
         "country": "Ireland",
         "clues": [
-            "This city is famous for its iconic landmarks such as Dublin's most recognized monument.",
-            "Known for its cultural and historical significance in Ireland."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Dublin hosts one of the most famous festivals in Ireland.",
@@ -670,8 +670,8 @@ const destinations = [
         "city": "Hanoi",
         "country": "Vietnam",
         "clues": [
-            "This city is famous for its iconic landmarks such as Hanoi's most recognized monument.",
-            "Known for its cultural and historical significance in Vietnam."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Hanoi hosts one of the most famous festivals in Vietnam.",
@@ -692,8 +692,8 @@ const destinations = [
         "city": "Jakarta",
         "country": "Indonesia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Jakarta's most recognized monument.",
-            "Known for its cultural and historical significance in Indonesia."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Jakarta hosts one of the most famous festivals in Indonesia.",
@@ -714,8 +714,8 @@ const destinations = [
         "city": "Oslo",
         "country": "Norway",
         "clues": [
-            "This city is famous for its iconic landmarks such as Oslo's most recognized monument.",
-            "Known for its cultural and historical significance in Norway."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Oslo hosts one of the most famous festivals in Norway.",
@@ -736,8 +736,8 @@ const destinations = [
         "city": "Brussels",
         "country": "Belgium",
         "clues": [
-            "This city is famous for its iconic landmarks such as Brussels's most recognized monument.",
-            "Known for its cultural and historical significance in Belgium."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Brussels hosts one of the most famous festivals in Belgium.",
@@ -758,8 +758,8 @@ const destinations = [
         "city": "Warsaw",
         "country": "Poland",
         "clues": [
-            "This city is famous for its iconic landmarks such as Warsaw's most recognized monument.",
-            "Known for its cultural and historical significance in Poland."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Warsaw hosts one of the most famous festivals in Poland.",
@@ -780,8 +780,8 @@ const destinations = [
         "city": "Budapest",
         "country": "Hungary",
         "clues": [
-            "This city is famous for its iconic landmarks such as Budapest's most recognized monument.",
-            "Known for its cultural and historical significance in Hungary."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Budapest hosts one of the most famous festivals in Hungary.",
@@ -802,8 +802,8 @@ const destinations = [
         "city": "Manila",
         "country": "Philippines",
         "clues": [
-            "This city is famous for its iconic landmarks such as Manila's most recognized monument.",
-            "Known for its cultural and historical significance in Philippines."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Manila hosts one of the most famous festivals in Philippines.",
@@ -824,8 +824,8 @@ const destinations = [
         "city": "Lima",
         "country": "Peru",
         "clues": [
-            "This city is famous for its iconic landmarks such as Lima's most recognized monument.",
-            "Known for its cultural and historical significance in Peru."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Lima hosts one of the most famous festivals in Peru.",
@@ -846,8 +846,8 @@ const destinations = [
         "city": "Kuala Lumpur",
         "country": "Malaysia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Kuala Lumpur's most recognized monument.",
-            "Known for its cultural and historical significance in Malaysia."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Kuala Lumpur hosts one of the most famous festivals in Malaysia.",
@@ -868,8 +868,8 @@ const destinations = [
         "city": "Bogot\u00e1",
         "country": "Colombia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Bogot\u00e1's most recognized monument.",
-            "Known for its cultural and historical significance in Colombia."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Bogot\u00e1 hosts one of the most famous festivals in Colombia.",
@@ -890,8 +890,8 @@ const destinations = [
         "city": "Helsinki",
         "country": "Finland",
         "clues": [
-            "This city is famous for its iconic landmarks such as Helsinki's most recognized monument.",
-            "Known for its cultural and historical significance in Finland."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Helsinki hosts one of the most famous festivals in Finland.",
@@ -912,8 +912,8 @@ const destinations = [
         "city": "Santiago",
         "country": "Chile",
         "clues": [
-            "This city is famous for its iconic landmarks such as Santiago's most recognized monument.",
-            "Known for its cultural and historical significance in Chile."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Santiago hosts one of the most famous festivals in Chile.",
@@ -934,8 +934,8 @@ const destinations = [
         "city": "Copenhagen",
         "country": "Denmark",
         "clues": [
-            "This city is famous for its iconic landmarks such as Copenhagen's most recognized monument.",
-            "Known for its cultural and historical significance in Denmark."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Copenhagen hosts one of the most famous festivals in Denmark.",
@@ -956,8 +956,8 @@ const destinations = [
         "city": "Edinburgh",
         "country": "UK",
         "clues": [
-            "This city is famous for its iconic landmarks such as Edinburgh's most recognized monument.",
-            "Known for its cultural and historical significance in UK."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Edinburgh hosts one of the most famous festivals in UK.",
@@ -978,8 +978,8 @@ const destinations = [
         "city": "San Francisco",
         "country": "USA",
         "clues": [
-            "This city is famous for its iconic landmarks such as San Francisco's most recognized monument.",
-            "Known for its cultural and historical significance in USA."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "San Francisco hosts one of the most famous festivals in USA.",
@@ -1000,8 +1000,8 @@ const destinations = [
         "city": "Vancouver",
         "country": "Canada",
         "clues": [
-            "This city is famous for its iconic landmarks such as Vancouver's most recognized monument.",
-            "Known for its cultural and historical significance in Canada."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Vancouver hosts one of the most famous festivals in Canada.",
@@ -1022,8 +1022,8 @@ const destinations = [
         "city": "Zurich",
         "country": "Switzerland",
         "clues": [
-            "This city is famous for its iconic landmarks such as Zurich's most recognized monument.",
-            "Known for its cultural and historical significance in Switzerland."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Zurich hosts one of the most famous festivals in Switzerland.",
@@ -1044,8 +1044,8 @@ const destinations = [
         "city": "Bucharest",
         "country": "Romania",
         "clues": [
-            "This city is famous for its iconic landmarks such as Bucharest's most recognized monument.",
-            "Known for its cultural and historical significance in Romania."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Bucharest hosts one of the most famous festivals in Romania.",
@@ -1066,8 +1066,8 @@ const destinations = [
         "city": "Bratislava",
         "country": "Slovakia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Bratislava's most recognized monument.",
-            "Known for its cultural and historical significance in Slovakia."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Bratislava hosts one of the most famous festivals in Slovakia.",
@@ -1088,8 +1088,8 @@ const destinations = [
         "city": "Casablanca",
         "country": "Morocco",
         "clues": [
-            "This city is famous for its iconic landmarks such as Casablanca's most recognized monument.",
-            "Known for its cultural and historical significance in Morocco."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Casablanca hosts one of the most famous festivals in Morocco.",
@@ -1110,8 +1110,8 @@ const destinations = [
         "city": "Luxembourg",
         "country": "Luxembourg",
         "clues": [
-            "This city is famous for its iconic landmarks such as Luxembourg's most recognized monument.",
-            "Known for its cultural and historical significance in Luxembourg."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Luxembourg hosts one of the most famous festivals in Luxembourg.",
@@ -1132,8 +1132,8 @@ const destinations = [
         "city": "Reykjavik",
         "country": "Iceland",
         "clues": [
-            "This city is famous for its iconic landmarks such as Reykjavik's most recognized monument.",
-            "Known for its cultural and historical significance in Iceland."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Reykjavik hosts one of the most famous festivals in Iceland.",
@@ -1154,8 +1154,8 @@ const destinations = [
         "city": "Doha",
         "country": "Qatar",
         "clues": [
-            "This city is famous for its iconic landmarks such as Doha's most recognized monument.",
-            "Known for its cultural and historical significance in Qatar."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Doha hosts one of the most famous festivals in Qatar.",
@@ -1176,8 +1176,8 @@ const destinations = [
         "city": "Riyadh",
         "country": "Saudi Arabia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Riyadh's most recognized monument.",
-            "Known for its cultural and historical significance in Saudi Arabia."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Riyadh hosts one of the most famous festivals in Saudi Arabia.",
@@ -1198,8 +1198,8 @@ const destinations = [
         "city": "Abu Dhabi",
         "country": "UAE",
         "clues": [
-            "This city is famous for its iconic landmarks such as Abu Dhabi's most recognized monument.",
-            "Known for its cultural and historical significance in UAE."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Abu Dhabi hosts one of the most famous festivals in UAE.",
@@ -1220,8 +1220,8 @@ const destinations = [
         "city": "Christchurch",
         "country": "New Zealand",
         "clues": [
-            "This city is famous for its iconic landmarks such as Christchurch's most recognized monument.",
-            "Known for its cultural and historical significance in New Zealand."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Christchurch hosts one of the most famous festivals in New Zealand.",
@@ -1242,8 +1242,8 @@ const destinations = [
         "city": "Kyiv",
         "country": "Ukraine",
         "clues": [
-            "This city is famous for its iconic landmarks such as Kyiv's most recognized monument.",
-            "Known for its cultural and historical significance in Ukraine."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Kyiv hosts one of the most famous festivals in Ukraine.",
@@ -1264,8 +1264,8 @@ const destinations = [
         "city": "Perth",
         "country": "Australia",
         "clues": [
-            "This city is famous for its iconic landmarks such as Perth's most recognized monument.",
-            "Known for its cultural and historical significance in Australia."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Perth hosts one of the most famous festivals in Australia.",
@@ -1286,8 +1286,8 @@ const destinations = [
         "city": "Johannesburg",
         "country": "South Africa",
         "clues": [
-            "This city is famous for its iconic landmarks such as Johannesburg's most recognized monument.",
-            "Known for its cultural and historical significance in South Africa."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Johannesburg hosts one of the most famous festivals in South Africa.",
@@ -1308,8 +1308,8 @@ const destinations = [
         "city": "Brasilia",
         "country": "Brazil",
         "clues": [
-            "This city is famous for its iconic landmarks such as Brasilia's most recognized monument.",
-            "Known for its cultural and historical significance in Brazil."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Brasilia hosts one of the most famous festivals in Brazil.",
@@ -1330,8 +1330,8 @@ const destinations = [
         "city": "Antwerp",
         "country": "Belgium",
         "clues": [
-            "This city is famous for its iconic landmarks such as Antwerp's most recognized monument.",
-            "Known for its cultural and historical significance in Belgium."
+            "This place has a rich cultural and historical background.",
+            "Known for its unique landmarks and famous traditions."
         ],
         "funFact": [
             "Antwerp hosts one of the most famous festivals in Belgium.",
