@@ -8,7 +8,7 @@ const DestinationSchema = new mongoose.Schema({
   funFact: { type: [String], required: true }, 
   trivia: { type: [String], required: true }, 
   options: { type: [String], required: true }, 
-  correctAnswer: { type: String, required: true }
+ 
 });
 
 
