@@ -1,7 +1,7 @@
-🌍 Globetrotter - Travel Guessing Game (Backend)
+## 🌍 Globetrotter - Travel Guessing Game (Backend)
 This is the backend for Globetrotter, a travel guessing game where users receive cryptic clues about famous places and must guess the destination. The backend handles API requests, user scores, and stores game data in MongoDB.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 - Node.js - JavaScript runtime for backend
 - Express.js - Fast and lightweight API framework
 - MongoDB Atlas - Cloud database
@@ -9,7 +9,7 @@ This is the backend for Globetrotter, a travel guessing game where users receive
 - Cors & dotenv - Middleware for handling cross-origin requests & environment variables
 - Render - Free hosting for backend deployment
 
-  🔧 Setup Instructions
+  ## 🔧 Setup Instructions
 
   1️⃣ Clone the Repository
     -  git clone https://github.com/YOUR_USERNAME/globetrotter-backend.git
